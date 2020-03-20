@@ -14,7 +14,7 @@ body {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.35;
   color: #777;
   background: #fff;
 }
@@ -495,7 +495,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-practice-areas,
 #gtco-our-team,
 #gtco-contact {
-  padding: 7em 0;
+  padding: 5em 0em 4em 0em;
   clear: both;
 }
 
@@ -515,7 +515,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #gtco-about .heading .subtle-text {
   position: absolute;
-  bottom: -1.6em;
+  top: 4em;
+  bottom: 0em;
   left: 0;
   text-transform: uppercase;
   font-size: 208px;
@@ -592,6 +593,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
   float: left;
   margin-bottom: 30px;
+  width: 50%;
 }
 #gtco-our-team .gtco-team-reverse .img-shadow img,
 #gtco-our-team .gtco-team .img-shadow img {
