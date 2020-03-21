@@ -599,7 +599,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #gtco-our-team .gtco-team .img-shadow img {
   position: relative;
   top: -20px;
-  right: -20px;
+  right: 20px;
 }
 #gtco-our-team .gtco-team .img-shadow img {
   top: -20px;
